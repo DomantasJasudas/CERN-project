@@ -11,7 +11,7 @@ def create_latex_report(filename, config_file):
     
     # Setup the latex document for report
     latex_report = ["\\documentclass[11pt,a4paper,twoside]{article}\n",
-                    "\\input{latex_configuration/preamble.tex}\n"
+                    "\\input{c:/Users/labas/Desktop/Modules/latex_configuration/preamble.tex}\n"
                     "\\graphicspath{{./figures/}}\n",
                     "\n"]
     
